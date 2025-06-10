@@ -1,0 +1,154 @@
+[04-Jun-2025 16:23:03 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 16:23:31 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 16:25:47 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 16:31:00 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 16:51:40 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 17:00:00 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 17:00:01 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 17:00:02 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 17:00:02 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ’γνωστος κεντρικός υπολογιστής. 
+[04-Jun-2025 18:06:50 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:06:50 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:07 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:07 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:17 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:17 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:18 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:18 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:19 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:19 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:26 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:23:26 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:23 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:23 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:29 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:29 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:31 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:38 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:45 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:46 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:29:46 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:33:03 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:33:03 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:00 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:00 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:01 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:01 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:04 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:04 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:05 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:05 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:05 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:38:05 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:40:25 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:40:25 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:30 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:30 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:30 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:30 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:31 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:31 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:31 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:31 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:39 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:39 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:39 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:42:39 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:43:01 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:43:01 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:43:02 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:43:02 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:43:23 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:43:23 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:17 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:17 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:32 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:41 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:41 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:45 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:45 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:52 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:52 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:45:54 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:46:31 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:46:37 Europe/Athens] Database error in login: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:46:42 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:46:49 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:46:49 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:47:24 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:47:27 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:47:29 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:47:29 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:48:45 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 18:48:45 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:25:57 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:25:57 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:06 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:08 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:08 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:19 Europe/Athens] Database error in login: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:31 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:32 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:32 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:26:48 Europe/Athens] Database error in login: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:27:26 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:27:26 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:27:31 Europe/Athens] Database error in login: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:28:46 Europe/Athens] Database error checking username: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:41:20 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:41:20 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:42:07 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:42:07 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:43:36 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:43:36 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:44:27 Europe/Athens] Database error checking username/email: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:45:43 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:45:43 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:48:43 Europe/Athens] PHP Warning:  require(session_check.php): Failed to open stream: No such file or directory in C:\xampp20\htdocs\aegean_recipes\add_recipe.php on line 3
+[04-Jun-2025 23:48:43 Europe/Athens] PHP Fatal error:  Uncaught Error: Failed opening required 'session_check.php' (include_path='C:\xampp20\php\PEAR') in C:\xampp20\htdocs\aegean_recipes\add_recipe.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp20\htdocs\aegean_recipes\add_recipe.php on line 3
+[04-Jun-2025 23:51:06 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:51:06 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:51:37 Europe/Athens] Database error in login: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[04-Jun-2025 23:51:42 Europe/Athens] Database error in recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[05-Jun-2025 00:04:30 Europe/Athens] Error getting homepage stats: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[05-Jun-2025 00:04:30 Europe/Athens] Error getting recent recipes: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[05-Jun-2025 00:17:47 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:35) in C:\xampp20\htdocs\aegean_recipes\register.php on line 77
+[05-Jun-2025 00:18:59 Europe/Athens] Failed login attempt for username: thodorispaskos from IP: ::1
+[05-Jun-2025 00:19:25 Europe/Athens] Failed login attempt for username: thodorispaskos from IP: ::1
+[05-Jun-2025 00:19:38 Europe/Athens] Failed login attempt for username: teopaskoss from IP: ::1
+[05-Jun-2025 00:19:46 Europe/Athens] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in C:\xampp20\htdocs\aegean_recipes\login.php on line 48
+[05-Jun-2025 00:19:46 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:35) in C:\xampp20\htdocs\aegean_recipes\login.php on line 57
+[05-Jun-2025 00:23:45 Europe/Athens] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in C:\xampp20\htdocs\aegean_recipes\login.php on line 48
+[05-Jun-2025 00:23:45 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:39) in C:\xampp20\htdocs\aegean_recipes\login.php on line 57
+[05-Jun-2025 00:23:46 Europe/Athens] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in C:\xampp20\htdocs\aegean_recipes\login.php on line 48
+[05-Jun-2025 00:23:46 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:39) in C:\xampp20\htdocs\aegean_recipes\login.php on line 57
+[05-Jun-2025 00:23:52 Europe/Athens] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in C:\xampp20\htdocs\aegean_recipes\login.php on line 48
+[05-Jun-2025 00:23:52 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:39) in C:\xampp20\htdocs\aegean_recipes\login.php on line 57
+[05-Jun-2025 00:24:12 Europe/Athens] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in C:\xampp20\htdocs\aegean_recipes\login.php on line 48
+[05-Jun-2025 00:24:12 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:39) in C:\xampp20\htdocs\aegean_recipes\login.php on line 57
+[05-Jun-2025 00:40:04 Europe/Athens] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in C:\xampp20\htdocs\aegean_recipes\login.php on line 48
+[05-Jun-2025 00:40:04 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:39) in C:\xampp20\htdocs\aegean_recipes\login.php on line 57
+[05-Jun-2025 01:23:01 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 25
+[05-Jun-2025 01:23:02 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 25
+[05-Jun-2025 01:23:03 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 25
+[05-Jun-2025 01:23:14 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 25
+[05-Jun-2025 01:29:22 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 25
+[05-Jun-2025 01:29:47 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 25
+[05-Jun-2025 01:31:48 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 25
+[05-Jun-2025 01:40:12 Europe/Athens] PHP Warning:  Undefined variable $userLiked in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 30
+[05-Jun-2025 01:40:12 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 31
+[05-Jun-2025 01:40:12 Europe/Athens] PHP Warning:  Undefined variable $comments in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 37
+[05-Jun-2025 01:40:12 Europe/Athens] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 37
+[05-Jun-2025 01:48:57 Europe/Athens] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in C:\xampp20\htdocs\aegean_recipes\login.php on line 48
+[05-Jun-2025 01:48:57 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp20\htdocs\aegean_recipes\nav.php:39) in C:\xampp20\htdocs\aegean_recipes\login.php on line 57
+[05-Jun-2025 01:49:07 Europe/Athens] PHP Warning:  Undefined variable $userLiked in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 28
+[05-Jun-2025 01:49:07 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 29
+[05-Jun-2025 01:49:07 Europe/Athens] PHP Warning:  Undefined variable $comments in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 35
+[05-Jun-2025 01:49:07 Europe/Athens] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 35
+[05-Jun-2025 01:50:40 Europe/Athens] PHP Warning:  Undefined variable $userLiked in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 28
+[05-Jun-2025 01:50:40 Europe/Athens] PHP Warning:  Undefined variable $likeCount in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 29
+[05-Jun-2025 01:50:40 Europe/Athens] PHP Warning:  Undefined variable $comments in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 35
+[05-Jun-2025 01:50:40 Europe/Athens] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp20\htdocs\aegean_recipes\recipe.php on line 35
